@@ -1,0 +1,11 @@
+{
+    "ambient": {
+        "sounds": [
+            {
+                "name": "stenochoria:ambient",
+                "stream": true,
+                "preload": true
+            }
+        ]
+    }
+}

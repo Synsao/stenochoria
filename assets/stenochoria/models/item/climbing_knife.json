@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "stenochoria:item/climbing_knife"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [121.5, -90, 0],
+			"translation": [0, -8.75, 4]
+		},
+		"firstperson_righthand": {
+			"rotation": [-75.5, 90, 0],
+			"translation": [5.25, 2.25, -6.5]
+		},
+		"head": {
+			"rotation": [0, 0, -44],
+			"translation": [-3.75, 0.25, 0],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}
