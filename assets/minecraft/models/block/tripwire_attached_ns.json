@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:block/cross",
     "textures": {
-        "cross": "stenochoria:block/short_glow_grass"
+        "cross": "stenochoria:block/tall_glow_grass"
     }
 }
