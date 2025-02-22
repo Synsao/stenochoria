@@ -7,5 +7,32 @@
                 "preload": true
             }
         ]
+    },
+    "1": {
+        "sounds": [
+            {
+                "name": "stenochoria:1",
+                "stream": true,
+                "preload": true
+            }
+        ]
+    },
+    "2": {
+        "sounds": [
+            {
+                "name": "stenochoria:2",
+                "stream": true,
+                "preload": true
+            }
+        ]
+    },
+    "3": {
+        "sounds": [
+            {
+                "name": "stenochoria:3",
+                "stream": true,
+                "preload": true
+            }
+        ]
     }
 }
