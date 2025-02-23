@@ -15,6 +15,30 @@
                 "custom_model_data": 2
             },
             "model": "stenochoria:item/strange_object_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "stenochoria:item/key"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "stenochoria:item/button"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "stenochoria:item/tablet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5000
+            },
+            "model": "minecraft:item/paper"
         }
     ]
 }
